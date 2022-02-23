@@ -374,6 +374,7 @@ nav > .logo {
 }
 .worker-speciality {
   color: var(--contact-link-text-color);
+  margin-bottom: 16px;
 
   font-size: 16px;
   line-height: 1.19;
