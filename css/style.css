@@ -107,6 +107,9 @@ body {
 .list.contact {
   margin-left: auto;
 }
+.contact-logo {
+  margin-right: 10px;
+}
 
 /* Logo */
 
