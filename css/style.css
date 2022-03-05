@@ -238,9 +238,8 @@ nav > .logo {
 }
 
 .follow-title {
-  text-decoration: none;
   margin: 0px;
-  padding: 0px;
+
   margin-bottom: 20px;
   color: var(--white-color);
   font-weight: bold;
@@ -350,10 +349,12 @@ nav > .logo {
 .dignity-item:not(:last-child) {
   margin-right: 30px;
 }
+.dignity-icon-container {
+  margin-bottom: 30px;
+}
 .icon-dignity {
   height: 120px;
   width: 270px;
-  margin-bottom: 30px;
 }
 .dignity-title {
   margin-bottom: 10px;
