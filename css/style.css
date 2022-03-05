@@ -200,6 +200,7 @@ nav > .logo {
 }
 .container.footer {
   display: flex;
+  align-items: baseline;
 }
 .container-foot-adress {
   display: block;
