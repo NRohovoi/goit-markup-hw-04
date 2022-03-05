@@ -199,12 +199,13 @@ nav > .logo {
 }
 .container.footer {
   display: flex;
+  vertical-align: bottom;
 }
 .container-foot-adress {
-  display: inline-flexbox;
+  display: block;
 }
 .container-foot-follow {
-  display: inline-flexbox;
+  display: block;
   margin-left: 70px;
 }
 .logo.white {
